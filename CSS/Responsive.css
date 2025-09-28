@@ -1,0 +1,250 @@
+@media (min-width: 130px) and (max-width:329.98px ){
+
+     .item h4::after {
+  content: "......................" 
+   !important;
+}
+
+.cards {
+    
+    margin: 3px !important;
+    
+}
+
+.welcome_res{
+    font-size: 30px !important;
+}
+
+.filter-item li {
+    width: 100% !important;}
+}
+
+@media (min-width: 330px) and (max-width:429.98px ){
+    .starter{
+        float: left !important;
+    }
+
+     .item h4::after {
+  content: "....................................." 
+   !important;
+}
+
+.video-play-button {
+    
+    top: 30% !important;
+    left: 80% !important;}
+
+.filter-item li.active,
+.filter-item li{
+width: 100% !important;
+}
+
+.welcome_nav {
+    padding: 100px 20px !important;
+}
+
+.slides img{
+    width: 100% !important;
+    height: 150px !important;
+    filter: brightness(100%) !important;
+}
+
+.booking a button {
+   
+    padding: 5px !important;
+    font-size: 16px !important;
+}
+
+.welcome_res{
+    font-size: 30px !important;
+}
+.year {
+    
+    font-size: 14px !important;
+}
+
+.welcome {
+   
+    padding: 3% 0px !important;
+}
+
+.cards{
+  
+  width: 90% !important;
+ height: 220px !important;
+  margin: 5px 20px !important;
+  
+ 
+}
+
+.slides img {
+   
+    height: 160px !important;
+   
+}
+
+.filter-item span {
+    
+    right: -16px !important;
+    
+}
+
+.filter-item li {
+   
+    padding: 0px !important;
+}
+
+}
+@media (min-width: 430px) and (max-width:575.98px ){
+    .filter-item li{
+width: 100% !important;
+float: left !important;
+padding: 10px;
+}
+
+.item h4::after {
+  content: "................................................." 
+   !important;
+   padding-left: -30px !important;
+   
+}
+
+.video-play-button
+
+ {
+    position: absolute;
+    z-index: 10;
+    top: 92% !important;
+    left: 53% !important;
+
+}
+.slides{
+   width: 100% !important;
+}
+
+.cards{
+  
+  width: 90% !important;
+ 
+  margin: 5px 30px !important;
+  
+ 
+}
+
+.welcome_res{
+    font-size: 33px !important;
+}
+
+.welcome{
+    padding: 10% !important;
+}
+
+.video-play-button {
+    top: 30% !important;
+    left: 85% !important;
+}
+
+.year {
+    
+    font-size: 16px !important;
+}
+.booking a button {
+    
+    padding: 2px !important;}
+
+.img_table{
+    height:250px !important;
+}
+
+}
+
+
+@media (min-width: 576px) and (max-width:767.98px ){
+    .item{
+        float: left !important;
+    }
+.filter-item li{
+width: 100% !important;
+float: left !important;
+padding: 5px;
+}
+
+.cards{
+    width: 550px !important;
+}
+.filter-item span {
+    background: black;
+    color: #cda45e;
+    position: absolute;
+    padding: 0 10px;
+    font-weight: 600;
+     right: -30% !important;
+     z-index: 2;
+}
+.crab span {
+    background: black;
+    color: #cda45e;
+    position: absolute;
+    padding: 0 10px;
+    font-weight: 600;
+     right: -3% !important;
+     z-index: 2;
+}
+
+.welcome{
+    padding: 3% !important;
+}
+
+.video-play-button {
+    top: 30% !important;
+    left: 85% !important;
+}
+}
+
+@media (min-width: 768px) and (max-width:991.98px ){
+    .item h4::after {
+  content: "................................................................................" 
+   !important;
+  
+  
+}
+  .filter-item li{
+width: 100% !important;
+float: left !important;
+padding: 5px;
+}
+
+.cards{
+    width: 350px !important;
+}
+}
+
+@media (min-width: 992px) and (max-width:1199.98px ){ 
+    .item h4::after {
+  content: "......................................................" 
+   !important;
+}
+
+.filter-item li.active,
+.filter-item li{
+width: 50% !important;
+}
+
+}
+
+@media (min-width: 1200px) and (max-width:1399.98px ){ 
+     .item h4::after {
+  content: "................................................................" 
+   !important;
+}
+.filter-item li.active,
+.filter-item li{
+width: 50% !important;
+}
+
+
+}
+
+@media (min-width: 1400px) and (max-width:1499.98px ){ 
+
+}
